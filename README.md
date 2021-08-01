@@ -17,6 +17,6 @@
  ・CSV操作
  
 # 技術
- ・Python 2.7.16
+ ・Python 2.7.16  
  ・beautifulsoup
 
